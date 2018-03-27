@@ -7,5 +7,6 @@ Community standards and general good practices for working with us!
 
 2. There's no need to ask permission to do anything in step 1, but you may need to articulate you intention or ideas so we're all on the same page.
 
+If you are new to git and a bit intimidated about getting started checkout the [getting started doc](/docs/getting-started.md).
 
 More to come. . .(feel free to open a pull request if you want to take a stab at some more!)
